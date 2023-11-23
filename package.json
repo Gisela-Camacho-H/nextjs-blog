@@ -18,6 +18,7 @@
     "node": ">=18"
   },
   "devDependencies": {
+    "@types/react": "18.2.38",
     "@vercel/node": "^3.0.10"
   }
 }
